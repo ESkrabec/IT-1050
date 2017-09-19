@@ -1,0 +1,21 @@
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Eric Skrabec\Desktop\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Eric Skrabec\Desktop\IT-1050\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe.config
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\bin\Debug\Assignment 1.exe
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\bin\Debug\Assignment 1.pdb
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csprojResolveAssemblyReference.cache
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\obj\Debug\Assignment 1.csproj.CoreCompileInputs.cache
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\obj\Debug\Assignment 1.exe
+C:\Users\Eric Skrabec\Desktop\IT-1050 GitHub Repository\Assignment 1\Assignment 1\obj\Debug\Assignment 1.pdb
