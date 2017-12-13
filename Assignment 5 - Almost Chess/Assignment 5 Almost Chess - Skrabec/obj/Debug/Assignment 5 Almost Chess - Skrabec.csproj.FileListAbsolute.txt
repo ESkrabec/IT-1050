@@ -1,0 +1,6 @@
+C:\Users\marie\Documents\GitHub\Assignment 5 Almost Chess - Kelling Solution\Assignment 5 Almost Chess - Kelling\bin\Debug\Assignment 5 Almost Chess - Kelling.exe.config
+C:\Users\marie\Documents\GitHub\Assignment 5 Almost Chess - Kelling Solution\Assignment 5 Almost Chess - Kelling\bin\Debug\Assignment 5 Almost Chess - Kelling.exe
+C:\Users\marie\Documents\GitHub\Assignment 5 Almost Chess - Kelling Solution\Assignment 5 Almost Chess - Kelling\bin\Debug\Assignment 5 Almost Chess - Kelling.pdb
+C:\Users\marie\Documents\GitHub\Assignment 5 Almost Chess - Kelling Solution\Assignment 5 Almost Chess - Kelling\obj\Debug\Assignment 5 Almost Chess - Kelling.csprojResolveAssemblyReference.cache
+C:\Users\marie\Documents\GitHub\Assignment 5 Almost Chess - Kelling Solution\Assignment 5 Almost Chess - Kelling\obj\Debug\Assignment 5 Almost Chess - Kelling.exe
+C:\Users\marie\Documents\GitHub\Assignment 5 Almost Chess - Kelling Solution\Assignment 5 Almost Chess - Kelling\obj\Debug\Assignment 5 Almost Chess - Kelling.pdb

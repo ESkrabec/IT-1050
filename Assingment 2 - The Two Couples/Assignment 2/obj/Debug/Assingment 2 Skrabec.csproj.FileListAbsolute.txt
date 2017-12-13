@@ -1,0 +1,16 @@
+C:\Users\marie\Documents\GitHub\Assingment 2\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.exe.config
+C:\Users\marie\Documents\GitHub\Assingment 2\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.csprojResolveAssemblyReference.cache
+C:\Users\marie\Documents\GitHub\Assingment 2\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.exe
+C:\Users\marie\Documents\GitHub\Assingment 2\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.pdb
+C:\Users\marie\Documents\GitHub\Assingment 2\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.exe
+C:\Users\marie\Documents\GitHub\Assingment 2\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.pdb
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assingment 2\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.exe.config
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assingment 2\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.exe
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assingment 2\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.pdb
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.exe.config
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.exe
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\bin\Debug\Assingment 2 Kelling.pdb
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.csprojResolveAssemblyReference.cache
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.csproj.CoreCompileInputs.cache
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.exe
+E:\IT 1050 (Kelling)\Assingment 2 - The Two Couples\Assingment 2 Kelling\obj\Debug\Assingment 2 Kelling.pdb

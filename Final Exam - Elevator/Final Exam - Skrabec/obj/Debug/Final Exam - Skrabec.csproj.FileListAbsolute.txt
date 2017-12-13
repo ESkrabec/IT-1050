@@ -1,0 +1,6 @@
+C:\Users\marie\Documents\GitHub\Final Exam - Kelling Solution\Final Exam - Kelling\bin\Debug\Final Exam - Kelling.exe.config
+C:\Users\marie\Documents\GitHub\Final Exam - Kelling Solution\Final Exam - Kelling\obj\Debug\Final Exam - Kelling.csprojResolveAssemblyReference.cache
+C:\Users\marie\Documents\GitHub\Final Exam - Kelling Solution\Final Exam - Kelling\bin\Debug\Final Exam - Kelling.exe
+C:\Users\marie\Documents\GitHub\Final Exam - Kelling Solution\Final Exam - Kelling\bin\Debug\Final Exam - Kelling.pdb
+C:\Users\marie\Documents\GitHub\Final Exam - Kelling Solution\Final Exam - Kelling\obj\Debug\Final Exam - Kelling.exe
+C:\Users\marie\Documents\GitHub\Final Exam - Kelling Solution\Final Exam - Kelling\obj\Debug\Final Exam - Kelling.pdb

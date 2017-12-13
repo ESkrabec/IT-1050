@@ -1,0 +1,12 @@
+C:\Users\marie\Documents\GitHub\Assignment 3 Kelling\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\marie\Documents\GitHub\Assignment 3 Kelling\Assignment 3\bin\Debug\Assignment 3.exe
+C:\Users\marie\Documents\GitHub\Assignment 3 Kelling\Assignment 3\bin\Debug\Assignment 3.pdb
+C:\Users\marie\Documents\GitHub\Assignment 3 Kelling\Assignment 3\obj\Debug\Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\marie\Documents\GitHub\Assignment 3 Kelling\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\marie\Documents\GitHub\Assignment 3 Kelling\Assignment 3\obj\Debug\Assignment 3.pdb
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assignment 3 Kelling\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assignment 3 Kelling\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assignment 3 Kelling\Assignment 3\obj\Debug\Assignment 3.pdb
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assignment 3\Assignment 3\bin\Debug\Assignment 3.exe.config
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assignment 3\Assignment 3\obj\Debug\Assignment 3.exe
+C:\Users\marie\Desktop\Marie's 1050 Solutions\Assignment 3\Assignment 3\obj\Debug\Assignment 3.pdb

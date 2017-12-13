@@ -1,0 +1,6 @@
+C:\Users\marie\Documents\GitHub\KellingAssignment 4 - A Night At The Movies\KellingAssignment 4\bin\Debug\KellingAssignment 4.exe.config
+C:\Users\marie\Documents\GitHub\KellingAssignment 4 - A Night At The Movies\KellingAssignment 4\obj\Debug\KellingAssignment 4.csprojResolveAssemblyReference.cache
+C:\Users\marie\Documents\GitHub\KellingAssignment 4 - A Night At The Movies\KellingAssignment 4\bin\Debug\KellingAssignment 4.exe
+C:\Users\marie\Documents\GitHub\KellingAssignment 4 - A Night At The Movies\KellingAssignment 4\bin\Debug\KellingAssignment 4.pdb
+C:\Users\marie\Documents\GitHub\KellingAssignment 4 - A Night At The Movies\KellingAssignment 4\obj\Debug\KellingAssignment 4.exe
+C:\Users\marie\Documents\GitHub\KellingAssignment 4 - A Night At The Movies\KellingAssignment 4\obj\Debug\KellingAssignment 4.pdb
